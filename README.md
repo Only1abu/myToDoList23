@@ -1,7 +1,7 @@
 # myToDoList23: Django Web App
 ## https://mytodolistuncc.herokuapp.com/
 ## About this project and Goals
-I created this to do list web app using freeCodeCamp's Video tutorial and chapters from the textbook I'm currently reading, *Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript* by Harry Percival. I deployed my app using 
+I created this to do list web app using freeCodeCamp's Video tutorial and chapters from the textbook I'm currently reading, *Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript* by Harry Percival. I deployed my app using Heroku.
 
 #### Goals
 1. Gain experience using Python's Django framework and understand basic application structure on the front end and backend.
