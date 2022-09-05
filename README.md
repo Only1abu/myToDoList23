@@ -11,6 +11,6 @@ I created this to do list web app using freeCodeCamp's Video tutorial and chapte
 
 ## Problems encountered
 1. I had to download Heroku's command line interface in order to correctly deploy the app instead of just using Python's heroku libraries.
-2. The runtime.txt had the wrong dependencies and versions of libraries after the ```pip freeze > requirements.txt``` command. I had to delete all the links in the runtime.txt file after finding a solution on stackoverflow.
+2. The runtime.txt had the wrong dependencies and versions of libraries after the ```pip freeze > requirements.txt``` command. I had to delete all the links in the runtime.txt file.
 3. Procfile file has to begin with a capital letter and won't be recognized otherwise. This file is imperative in order to deploy on Heroku's platform.
 4. You must also disable the static settings in your app in order to deploy on Heroku's platform. This is done by the command `heroku config:set DISABLE_COLLECTSTATIC=1`
